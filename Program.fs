@@ -20,10 +20,10 @@ let prob2 (str: string) =
   failwith "TODO" // REMOVE this line when you implement your own code
 
 /// Write a function `prob3` that takes in as input three floating point numbers
-/// a, b, and c, and returns a root of the quadratic formula $ax^2 + bx + c =
-/// 0$. If there are two roots, then the function should return the bigger root.
-/// If there is only one root, then the function should return the root. If
-/// there are no real roots, then the function should return nan, which is a
+/// a, b, and c, and returns a root of the equation $ax^2 + bx + c = 0$.
+/// If there are two roots, then the function should return the bigger root.
+/// If there is only one root, then the function should return the root.
+/// If there are no real roots, then the function should return nan, which is a
 /// special floating point number representing "Not a Number".
 let prob3 a b c =
   failwith "TODO" // REMOVE this line when you implement your own code
