@@ -1,4 +1,4 @@
-﻿module CS220.Program
+module CS220.Program
 
 /// Define a function `prob1` that takes in three (int) numbers as input and
 /// returns the sum of the squares of the two large numbers. If there is any
